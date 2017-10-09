@@ -1,2 +1,3 @@
-# ClassPresSetUp
-hi.
+# ClassPresentation
+
+This is an example repository hosted on GitHub.
